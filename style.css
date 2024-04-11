@@ -1,0 +1,19 @@
+body {
+    font-size: 15pt;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+  text-align: center;
+  width: 100%;
+}
+
+input{
+  width: 5rem;
+  height: 3rem;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+}
